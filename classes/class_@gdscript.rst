@@ -17,7 +17,7 @@ Built-in GDScript constants, functions, and annotations.
 Description
 -----------
 
-A list of GDScript-specific utility functions and annotations accessible from any script.
+A list of GDScript-specific utility functions and annotations accessible from any script written in the GDscript language.
 
 For the list of the global functions and constants see :ref:`@GlobalScope<class_@GlobalScope>`.
 
